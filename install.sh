@@ -2,5 +2,4 @@
 
 rsync -avP .config/ ~/.config/
 
-
 hyprctl reload
