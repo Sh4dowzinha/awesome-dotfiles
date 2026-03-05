@@ -1,4 +1,6 @@
 #!/bin/bash
 
-rsync -avP .config/hypr/ ~/.config/hypr/
+rsync -avP .config/ ~/.config/
+
+
 hyprctl reload
