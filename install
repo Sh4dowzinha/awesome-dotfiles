@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo pacman -S paru
+sudo pacman -S noctalia-shell noctalia-qs
+paru -S darkly-bin
